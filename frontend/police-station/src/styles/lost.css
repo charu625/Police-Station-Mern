@@ -1,0 +1,44 @@
+form{
+    margin-left: 5%;
+    margin-top: 3%;
+    border: 1px solid gray;
+    padding-left: 180px;
+    }
+    h1{
+        text-align: center;
+        text-decoration: underline;
+        text-shadow: black;
+        color: gray;
+    }
+    #yourname{
+        width: 700px;
+        margin-bottom: 12px;
+        
+        
+    }
+    .pe{
+        display: flex;
+        margin-bottom: 12px;
+    }
+    #phone{
+        width: 320px;
+    }
+    #youremail{
+        width: 320px;
+        margin-left: 0px;
+    }
+    .lp{
+        display: flex;
+        margin-bottom: 12px;
+    }
+    #location{
+        width: 320px;
+        margin-left: 0px;
+    }
+    #price{
+        width: 320px;
+    }
+    #address{
+        width: 700px;
+        margin-bottom: 37px;
+    }

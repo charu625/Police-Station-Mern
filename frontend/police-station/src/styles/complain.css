@@ -1,0 +1,74 @@
+#name{
+    width: 700px;
+    margin-bottom: 12px;
+}
+
+form{
+     margin-left: 12%;  
+    margin-top: 3%;
+    width: 1000px;
+    border: 1px solid grey;
+    padding-left: 170px;
+   margin-right: 19%;
+   
+   
+}
+/* .ph{
+    display: flex;
+} */
+#altphone{
+    width: 320px;
+    
+}
+#email{
+    width:320px;
+    margin-left: 0px;
+}
+#gps{
+    width: 450px;
+}
+.a{
+    text-align: center;
+    color: gray;
+    margin-top: 1%;
+}
+#address1{
+    width: 700px;
+    margin-bottom: 12px;
+}
+
+#address2{
+    width: 700px;
+    margin-bottom: 12px;
+}
+.ge{
+    display: flex;
+    margin-bottom: 12px;
+
+}
+#gender{
+    width: 320px;
+    height: 39px;
+    margin-top: 2.8%;
+  
+}
+#phoneno{
+    width: 320px;
+    margin-left: 0px;
+   
+    
+}
+.ld{
+    display: flex;
+    margin-bottom: 36px;
+}
+#district{
+    margin-left: 0px;
+    width: 320px;
+}
+#landmark{
+    width: 320px;
+}
+h1{
+    text-decoration: underline;
+}
